@@ -1,6 +1,6 @@
 # vysor-pro
 how to install
-1. `git clone https://github.com/infused-code/vysor-pro`
+1. `git clone https://github.com/abuzaidandroidprojects/vysor-pro`
 2. open chrome `chrome://extensions`
 3. load unpack
 4. select cloned folder
